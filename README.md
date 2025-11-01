@@ -29,8 +29,7 @@ SONY 相机快门线控制器程序 (适用于二代机以前型号)
 
 ## 软件依赖
 
-*   [PlatformIO](https://platformio.org/) (推荐) 或 Arduino IDE
-*   Arduino AVR 或 ESP8266/ESP32 框架 (根据你的硬件选择)
+*   [PlatformIO] (推荐) 或 Arduino IDE
 
 ## 安装和使用
 
@@ -57,5 +56,6 @@ SONY 相机快门线控制器程序 (适用于二代机以前型号)
 
  
 >>>>>>> Stashed changes
+
 
 
