@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 SONY 相机快门线控制器程序 (适用于二代机以前型号)
 适用于适用mulit 接口控制快门的SONY相机
 
@@ -58,4 +57,5 @@ SONY 相机快门线控制器程序 (适用于二代机以前型号)
 
  
 >>>>>>> Stashed changes
+
 
